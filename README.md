@@ -17,7 +17,7 @@ You can get the latest source code by cloning it from github:
 Dependencies
 ======
 
-Dependencies can be obtained by cloning the following three repositories: build, rbase and rmem:
+Dependencies can be obtained by cloning the following repositories:
 
 	git clone https://github.com/milostosic/build.git
 	git clone https://github.com/milostosic/rbase.git
