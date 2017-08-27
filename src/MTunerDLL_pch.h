@@ -3,8 +3,8 @@
 /// License: http://www.opensource.org/licenses/BSD-2-Clause               ///
 //--------------------------------------------------------------------------//
 
-#ifndef __RTM_MTUNERDLL_PCH_H__
-#define __RTM_MTUNERDLL_PCH_H__
+#ifndef RTM_MTUNERDLL_PCH_H
+#define RTM_MTUNERDLL_PCH_H
 
 #include <rbase/inc/platform.h>
 #include <rmem/inc/rmem.h>
@@ -15,4 +15,4 @@
 #include <windows.h>
 #endif // RTM_PLATFORM_WINDOWS
 
-#endif // __RTM_MTUNERDLL_PCH_H__
+#endif // RTM_MTUNERDLL_PCH_H
