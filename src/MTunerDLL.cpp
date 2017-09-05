@@ -7,11 +7,8 @@
 
 #if RTM_PLATFORM_WINDOWS
 
-BOOL APIENTRY DllMain(HMODULE _hModule, DWORD  _ul_reason_for_call, LPVOID _lpReserved)
+BOOL APIENTRY DllMain(HMODULE /*_hModule*/, DWORD  _ul_reason_for_call, LPVOID /*_lpReserved*/)
 {
-	(void)_hModule;
-	(void)_lpReserved;
-
 	switch (_ul_reason_for_call)
 	{
 		case DLL_PROCESS_ATTACH:	rmemInit(0);		
