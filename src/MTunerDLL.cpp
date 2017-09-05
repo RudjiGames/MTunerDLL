@@ -23,4 +23,3 @@ BOOL APIENTRY DllMain(HMODULE /*_hModule*/, DWORD  _ul_reason_for_call, LPVOID /
 }
 
 #endif // RTM_PLATFORM_WINDOWS
-
