@@ -3,7 +3,7 @@
 # License: https://github.com/milostosic/MTunerDLL/LICENSE
 #
 
-GENIE=../build/tools/$(OS)/genie
+GENIE=../build/tools/bin/$(OS)/genie
 
 all:
 all:
