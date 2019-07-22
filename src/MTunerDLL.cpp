@@ -25,7 +25,7 @@ BOOL APIENTRY DllMain(HMODULE /*_hModule*/, DWORD  _ul_reason_for_call, LPVOID /
 		case DLL_PROCESS_ATTACH:	rmemHookAllocs(0, allocatorID);
 									break;
 
-		case DLL_PROCESS_DETACH:	rmemShutDown();
+		case DLL_PROCESS_DETACH:	rmemUnhookAllocs();
 									break;
 	};
 	return TRUE;
