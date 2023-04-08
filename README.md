@@ -1,7 +1,6 @@
 MTunerDLL
 ======
 
-[![Build Status](https://travis-ci.org/milostosic/MTunerDLL.svg?branch=master)](https://travis-ci.org/milostosic/MTunerDLL)
 [![Build status](https://ci.appveyor.com/api/projects/status/ivryg3m8ge663nkb?svg=true)](https://ci.appveyor.com/project/milostosic/MTunerDLL)
 [![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/milostosic/rdebug/blob/master/LICENSE)
 
