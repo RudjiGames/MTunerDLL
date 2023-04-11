@@ -60,6 +60,7 @@ for:
     init:
     - git clone --depth 1 https://github.com/milostosic/MTunerDLL MTunerDLL
     - git clone --depth 1 https://github.com/milostosic/build   build
+    - git clone --depth 1 https://github.com/milostosic/rmem    rmem
     - git clone --depth 1 https://github.com/milostosic/rbase   rbase
     - git clone --depth 1 https://github.com/milostosic/rdebug  rdebug
     - git clone --depth 1 https://github.com/milostosic/DIA     DIA
@@ -81,6 +82,7 @@ for:
     init:
       - git clone --depth 1 https://github.com/milostosic/MTunerDLL     MTunerDLL
       - git clone --depth 1 https://github.com/milostosic/build   build
+      - git clone --depth 1 https://github.com/milostosic/rmem    rmem
       - git clone --depth 1 https://github.com/milostosic/rbase   rbase
       - git clone --depth 1 https://github.com/milostosic/rdebug  rdebug
       - git clone --depth 1 https://github.com/bkaradzic/GENie    GENie		# build GENie from source: `GLIBC_2.29' not found
@@ -104,6 +106,7 @@ for:
 
     init:
       - git clone --depth 1 https://github.com/milostosic/MTunerDLL     MTunerDLL
+      - git clone --depth 1 https://github.com/milostosic/rmem    rmem
       - git clone --depth 1 https://github.com/milostosic/build   build
       - git clone --depth 1 https://github.com/milostosic/rbase   rbase
       - git clone --depth 1 https://github.com/milostosic/rdebug  rdebug
