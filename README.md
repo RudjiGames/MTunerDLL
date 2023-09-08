@@ -1,25 +1,24 @@
 <img src="https://rudji.com/images/lib/mtunerdll.png"/>
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ivryg3m8ge663nkb?svg=true)](https://ci.appveyor.com/project/milostosic/MTunerDLL)
-[![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/milostosic/rdebug/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/RudjiGames/MTunerDLL/blob/master/LICENSE)
 
-MTunerDLL is a process injection DLL used when profiling memory with [MTuner](http://mtuner.net).
+**MTunerDLL** is a process injection DLL used when profiling memory with [**MTuner**](https://github.com/RudjiGames/MTuner).
 
 Source Code
 ======
 
 You can get the latest source code by cloning it from github:
 
-      git clone https://github.com/milostosic/MTunerDLL.git 
+      git clone https://github.com/RudjiGames/MTunerDLL.git 
 
 Dependencies
 ======
 
 Dependencies can be obtained by cloning the following repositories:
 
-	git clone https://github.com/milostosic/build.git
-	git clone https://github.com/milostosic/rbase.git
-	git clone https://github.com/milostosic/rmem.git
+	git clone https://github.com/RudjiGames/build.git
+	git clone https://github.com/RudjiGames/rbase.git
+	git clone https://github.com/RudjiGames/rmem.git
 
 License (BSD 2-clause)
 ======
