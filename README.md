@@ -4,7 +4,9 @@
 
 **MTunerDLL** is a process injection DLL used when profiling memory with [**MTuner**](https://github.com/RudjiGames/MTuner).
 
-Note: this repository is part of the [**MTuner**](https://github.com/RudjiGames/MTuner) project and is **not** meant to be used/built in a stand alone way.
+---
+
+This repository is part of the [**MTuner**](https://github.com/RudjiGames/MTuner) project and is **not** meant to be used/built in a stand alone way.
 
 License (BSD 2-clause)
 ======
