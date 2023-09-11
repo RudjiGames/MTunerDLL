@@ -4,21 +4,7 @@
 
 **MTunerDLL** is a process injection DLL used when profiling memory with [**MTuner**](https://github.com/RudjiGames/MTuner).
 
-Source Code
-======
-
-You can get the latest source code by cloning it from github:
-
-      git clone https://github.com/RudjiGames/MTunerDLL.git 
-
-Dependencies
-======
-
-Dependencies can be obtained by cloning the following repositories:
-
-	git clone https://github.com/RudjiGames/build.git
-	git clone https://github.com/RudjiGames/rbase.git
-	git clone https://github.com/RudjiGames/rmem.git
+Note: this repository is part of the [**MTuner**](https://github.com/RudjiGames/MTuner) project and is **not** meant to be used/built in a stand alone way.
 
 License (BSD 2-clause)
 ======
