@@ -1,5 +1,6 @@
 <img src="https://rudji.com/images/lib/mtunerdll.png"/>
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ha63j9guwsxadpso?svg=true)](https://ci.appveyor.com/project/milostosic/mtunerdll)
 [![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/RudjiGames/MTunerDLL/blob/master/LICENSE)
 
 **MTunerDLL** is a process injection DLL used when profiling memory with [**MTuner**](https://github.com/RudjiGames/MTuner).
