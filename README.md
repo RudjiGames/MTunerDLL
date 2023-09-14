@@ -1,43 +1,24 @@
-MTunerDLL
-======
+<img src="https://rudji.com/images/lib/mtunerdll.png"/>
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ivryg3m8ge663nkb?svg=true)](https://ci.appveyor.com/project/milostosic/MTunerDLL)
-[![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/milostosic/rdebug/blob/master/LICENSE)
+[![Build status](https://ci.appveyor.com/api/projects/status/ha63j9guwsxadpso?svg=true)](https://ci.appveyor.com/project/milostosic/mtunerdll)
+[![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/RudjiGames/MTunerDLL/blob/master/LICENSE)
 
-MTunerDLL is a process injection DLL used when profiling memory with [MTuner](http://mtuner.net).
+**MTunerDLL** is a process injection DLL used when profiling memory with [**MTuner**](https://github.com/RudjiGames/MTuner).
 
-Source Code
-======
+---
 
-You can get the latest source code by cloning it from github:
-
-      git clone https://github.com/milostosic/MTunerDLL.git 
-
-Dependencies
-======
-
-Dependencies can be obtained by cloning the following repositories:
-
-	git clone https://github.com/milostosic/build.git
-	git clone https://github.com/milostosic/rbase.git
-	git clone https://github.com/milostosic/rmem.git
-
-Author
-======
-
-The author of **MTunerDLL** is Milos Tosic  
-[ <img src="https://github.com/milostosic/build/raw/gh-pages/images/twitter.png">](https://twitter.com/milostosic)[ <img src="https://github.com/milostosic/build/raw/gh-pages/images/mail.png">](mailto:milostosic77@gmail.com)  
+This repository is part of the [**MTuner**](https://github.com/RudjiGames/MTuner) project and is **not** meant to be used/built in a stand alone way.
 
 License (BSD 2-clause)
 ======
 
 <a href="http://opensource.org/licenses/BSD-2-Clause" target="_blank">
-<img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
+<img align="right" src="https://opensource.org/wp-content/uploads/2022/10/osi-badge-dark.svg" width="100" height="137">
 </a>
 
-	Copyright (c) 2017 Milos Tosic. All rights reserved.
+	Copyright 2023 Milos Tosic. All rights reserved.
 	
-	https://github.com/milostosic/MTunerDLL
+	https://github.com/RudjiGames/MTunerDLL
 	
 	Redistribution and use in source and binary forms, with or without
 	modification, are permitted provided that the following conditions are met:
