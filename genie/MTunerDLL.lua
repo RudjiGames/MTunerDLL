@@ -10,4 +10,3 @@ end
 function projectAdd_MTunerDLL() 
 	addProject_lib("MTunerDLL", Lib.Tool, true)
 end
-
