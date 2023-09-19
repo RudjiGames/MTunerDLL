@@ -7,7 +7,6 @@
 
 #if RTM_PLATFORM_WINDOWS
 
-
 BOOL APIENTRY DllMain(HMODULE /*_hModule*/, DWORD  _ul_reason_for_call, LPVOID /*_lpReserved*/)
 {
 	int allocatorID = 0;
