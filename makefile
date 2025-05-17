@@ -1,5 +1,5 @@
 #
-# Copyright 2023 Milos Toisc. All rights reserved.
+# Copyright 2025 Milos Toisc. All rights reserved.
 # License: https://github.com/milostosic/MTunerDLL/LICENSE
 #
 
