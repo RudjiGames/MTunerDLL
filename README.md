@@ -1,4 +1,4 @@
-<img height="81" src="https://rudji.com/img/lib/rudji_games_logo_header_black.svg"/>
+<img height="81" src="https://rudji.com/img/rudji_games_logo_header_black.svg"/>
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ha63j9guwsxadpso?svg=true)](https://ci.appveyor.com/project/milostosic/mtunerdll)
 [![License](https://img.shields.io/badge/license-BSD--2%20clause-blue.svg)](https://github.com/RudjiGames/MTunerDLL/blob/master/LICENSE)
