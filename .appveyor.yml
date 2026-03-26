@@ -108,7 +108,7 @@ for:
     init:
       - git clone --depth 1 https://github.com/RudjiGames/MTunerDLL MTunerDLL
       - git clone --depth 1 https://github.com/RudjiGames/rmem      rmem
-      - git clone --depth 1 https://github.com/RudjiGames/build     build
+      - git clone --depth 1 https://github.com/RudjiGames/zidar     zidar
       - git clone --depth 1 https://github.com/RudjiGames/rbase     rbase
       - git clone --depth 1 https://github.com/RudjiGames/rdebug    rdebug
       - git clone --depth 1 https://github.com/bkaradzic/GENie GENie  # build GENie from source: we don't know the target CPU, can't use ARM binary from 'zidar'
@@ -118,5 +118,5 @@ for:
       - ./GENie/bin/darwin/genie --file=MTunerDLL/scripts/genie.lua --gcc=osx-x64 gmake
     
     build_script:
-      - cd ./.build/osx/clang/MTunerDLL/projects/
+      - cd ./.zidar/osx/clang/MTunerDLL/projects/
       - make config=${buildcfg}
