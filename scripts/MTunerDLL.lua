@@ -8,5 +8,5 @@ function projectDependencies_MTunerDLL()
 end
 
 function projectAdd_MTunerDLL() 
-	addProject_lib("MTunerDLL", Lib.Tool, true)
+	addProject_lib("MTunerDLL", LibraryType.Tool, true)
 end
