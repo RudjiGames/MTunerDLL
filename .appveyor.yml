@@ -66,7 +66,7 @@ for:
     - git clone --depth 1 https://github.com/RudjiGames/DIA       DIA
 
     install:
-      - zidar\tools\bin\windows\genie.exe --file=MTunerDLL\genie\genie.lua vs2022
+      - zidar\tools\bin\windows\genie.exe --file=MTunerDLL\scripts\genie.lua vs2022
 
     build: 
       project: .zidar\windows\vs2022\MTunerDLL\projects\vs2022\MTunerDLL.sln
@@ -90,7 +90,7 @@ for:
       - cd GENie && make && cd ..
 
     install:
-      - ./GENie/bin/linux/genie --file=MTunerDLL/genie/genie.lua --gcc=linux-gcc gmake
+      - ./GENie/bin/linux/genie --file=MTunerDLL/scripts/genie.lua --gcc=linux-gcc gmake
   
     build_script:
       - cd ./.zidar/linux/linux-gcc/MTunerDLL/projects/
@@ -115,7 +115,7 @@ for:
       - cd GENie && make && cd ..
     
     install:
-      - ./GENie/bin/darwin/genie --file=MTunerDLL/genie/genie.lua --gcc=osx-x64 gmake
+      - ./GENie/bin/darwin/genie --file=MTunerDLL/scripts/genie.lua --gcc=osx-x64 gmake
     
     build_script:
       - cd ./.build/osx/clang/MTunerDLL/projects/
