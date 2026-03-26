@@ -111,7 +111,7 @@ for:
       - git clone --depth 1 https://github.com/RudjiGames/build     build
       - git clone --depth 1 https://github.com/RudjiGames/rbase     rbase
       - git clone --depth 1 https://github.com/RudjiGames/rdebug    rdebug
-      - git clone --depth 1 https://github.com/bkaradzic/GENie GENie  # build GENie from source: we don't know the target CPU, can't use ARM binary from 'build'
+      - git clone --depth 1 https://github.com/bkaradzic/GENie GENie  # build GENie from source: we don't know the target CPU, can't use ARM binary from 'zidar'
       - cd GENie && make && cd ..
     
     install:

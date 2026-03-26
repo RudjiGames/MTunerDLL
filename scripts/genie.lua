@@ -20,4 +20,4 @@ dofile "MTunerDLL.lua"
 solution "MTunerDLL"
 	setPlatforms()
 
-	loadProject( "MTunerDLL" )
+	projectLoad( "MTunerDLL" )
